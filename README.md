@@ -16,7 +16,7 @@
   
   ##
   
- 
+  ![Snake animation](https://github.com/GabrielHRC/GabrielHRC/blob/output/github-contribution-grid-snake.svg)
   
   ##
   
